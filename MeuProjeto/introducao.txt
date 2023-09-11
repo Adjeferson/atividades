@@ -1,0 +1,14 @@
+ Programa de Residência em Tecnologia da Informação e da Comunicação (TIC18) é um projeto com o objetivo de promover capacitação técnica em desenvolvimento de software,
+contribuir para o crescimento da quantidade de pessoas aptas para atuar no setor, e consequentemente diminuir o déficit de profissionais com esse perfil no mercado de
+trabalho brasileiro. Serão 15 meses de formação, envolvendo oficinas teórico-práticas e imersão em equipes de trabalho para resolução de problemas reais de empresas
+parceiras. Ao longo do processo de formação, serão aplicados conteúdos como Lógica de programação, e Desenvolvimento de Soluções em tecnologias como Java, .Net, Python,
+além da formação em desenvolvimento de Interfaces, Arquitetura, Projeto, Testes de Software e uso da Cloud. São 100 vagas com bolsas ofertadas para profissionais graduados
+em cursos de computação (Ciência da Computação, Sistemas de Informação, Engenharia de Computação) e outras Engenharias, assim como técnicos e tecnólogos em Desenvolvimento 
+de Software, além de estudantes que estejam finalizando a graduação nos cursos superiores supracitados.
+
+Ao final da qualificação, o residente será capaz de desenvolver sistemas com aplicação em diversas áreas como Saúde, Educação, Agronegócio e outros tipos de Sistemas de
+Informação onde as TIC se insiram, além de ser estimulado a empreender a partir das ideias inovadoras desenvolvidas durante o curso.
+
+Projeto apoiado pelo Ministério da Ciência, Tecnologia e Inovações, com recursos da Lei no 8.248, de 23 de outubro de 1991. Iniciativa do Ministério da Ciência, Tecnologia
+e Inovações e Softex no âmbito do Programa MCTI Futuro. A execução será realizada pelo Centro de Pesquisa e Desenvolvimento Tecnológico em Informática e Eletroeletrônica
+de Ilhéus (CEPEDI), em parceria com a Universidade Estadual de Santa Cruz (UESC).
