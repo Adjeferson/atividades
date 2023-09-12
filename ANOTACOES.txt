@@ -1,6 +1,8 @@
 
 Estudar programação orientada a objetos;
+
 Estudar a = malloc (10*sigeaf(int));
+
 Fazer atividades;
 
 Fazer recibo Hugo 103;
@@ -10,6 +12,8 @@ Pagar Hugo - portões;
 Imprimir provas de QEE;
 
 Bradesco;
+
+Elaborar prova de manutenção de sistemas industriais;
 
 
 
