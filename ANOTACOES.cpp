@@ -1,4 +1,15 @@
 
 Estudar programação orientada a objetos;
-a = malloc (10*sigeaf(int));
+Estudar a = malloc (10*sigeaf(int));
+Fazer atividades;
+
+Fazer recibo Hugo 103;
+
+Pagar Hugo - portões;
+
+Imprimir provas de QEE;
+
+Bradesco;
+
+
 
